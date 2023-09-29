@@ -6,12 +6,7 @@
 
 - [About](#about)
 - [Features](#features)
-- [Demo](#demo)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## About
 
 The "CSS Animation" project showcases a creative and visually appealing CSS animation that can be easily integrated into web projects. By using HTML5 and CSS3, this project demonstrates the power and flexibility of modern web technologies for creating engaging animations without relying on JavaScript.
